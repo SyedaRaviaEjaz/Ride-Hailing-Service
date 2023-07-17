@@ -1,0 +1,25 @@
+1. Passenger 1
+       ->  Name: Sara Bilal
+       ->  Contact: 0333-2222555
+       ->  Rating: 5/5
+       ->  Location: 850 meteres away from your location
+2. Passenger 2
+       ->  Name: Umer Danish 
+       ->  Contact: 0333-5552222 
+       ->  Rating: 4/5
+       ->  Location: 750 meteres away from your location
+3. Passenger 3
+       ->  Name: Ammar Ahsan
+       ->  Contact: 0321-2225555
+       ->  Rating: 4.5/5
+       ->  Location: 100 meters away from your location 
+4. Passenger 4
+       ->  Name: Zia-Ur-Rehman
+       ->  Contact: 0345-3337777
+       ->  Rating: 3/5
+       ->  Location: 250 meteres away from your location
+5. Passenger 5
+       ->  Name: Ali Khan
+       ->  Contact: 0300-5552222
+       ->  Rating: 3/5
+       ->  Location: 50 meteres away from your location 
